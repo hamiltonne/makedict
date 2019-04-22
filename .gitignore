@@ -1,0 +1,6 @@
+*.txt
+.idea
+**/input
+**/venv
+**/gcide-0.52
+*.zip
